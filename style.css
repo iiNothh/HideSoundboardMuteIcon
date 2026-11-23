@@ -1,0 +1,3 @@
+.vc-plugin-modal-content > div:has(.vc-hsmi-settings-anchor) {
+    display: contents;
+}
